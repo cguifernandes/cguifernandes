@@ -6,7 +6,7 @@ Estudo React e Node 😎
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 Linguagens já desenvolvidas
 
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="c"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="Javascript"/></code>
