@@ -18,7 +18,7 @@ Estudo React e Node 😎
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cguifernandes&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=cguifernandes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <div>
  <a href = "mailto:gui.adfer@gmail.com.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
