@@ -2,7 +2,7 @@
 
 > Atualmente estudo na Escola Professor Luiz Rosa e estou cursando o ensino médio juntamento com o curso técnico de informática.
 
-Estudo React e Node 😎
+Procurando vagas de trainee 🔎
 
 ----
 
