@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Guilherme Fernandes</strong>
 
-> Atualmente estudo na Escola Professor Luiz Rosa e estou cursando o ensino médio juntamento com o curso técnico de informática.
+> Já finalizei o ensino médio na Escola Professor Luiz e por agora, estou a procura de um emprego na área de TI.
 
 Procurando vagas de trainee 🔎
 
