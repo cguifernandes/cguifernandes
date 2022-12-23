@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Guilherme Fernandes</strong>
 
-> Já finalizei o ensino médio na Escola Professor Luiz e por agora, estou a procura de um emprego na área de TI.
+> Programador full-stack, freelancer, desenvolvedor web.
 
 Procurando vagas de trainee 🔎
 
