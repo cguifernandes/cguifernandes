@@ -20,6 +20,7 @@ Procurando vagas de trainee ou projetos free-lancer 🔎
  <code><img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="TypeScript"/></code>
  <code><img title="React" alt="React.js" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" /></code>
  <code><img title="Styled Components" alt="Styled Components" height="32" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" /></code>
+ <code><img title="Vue JS" alt="Vue JS" height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png" /></code>
 </div>
 
 
